@@ -1,0 +1,11 @@
+{
+  "name": "rowriter",
+  "version": "1.0.0",
+  "description": "A function that chops an array into aesthetically lengthed sub-arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Friedrich",
+  "license": "MIT"
+}
