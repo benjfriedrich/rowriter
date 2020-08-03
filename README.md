@@ -11,9 +11,11 @@ RoWriter takes two arguments: 1) an array of items, and 2) a maxWidth, and it re
 	RoWrite([...array], maxWidth)
 
 Example input:
+
 	RoWrite([a,b,c,d,e], 4)
 
 Expected output:
+
 	[[a,b,c],[d,e]]
 
 [Find more here][https://rowriter.dev]
