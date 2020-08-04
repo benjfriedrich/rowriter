@@ -18,4 +18,4 @@ Expected output:
 
 	[[a,b,c],[d,e]]
 
-[Find more here][https://rowriter.dev]
+[Find more here](https://rowriter.dev)
